@@ -21,7 +21,7 @@ This project implements a reinforcement learning model to optimize path planning
 5. [Evaluation](#evaluation)
 6. [Customization](#customization)
 7. [Contributing](#contributing)
-8. [License](#license)
+
 
 ## Installation
 
@@ -116,6 +116,3 @@ This will generate a plot of the cumulative reward over time.
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
